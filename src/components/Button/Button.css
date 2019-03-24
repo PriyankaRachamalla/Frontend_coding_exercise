@@ -1,0 +1,16 @@
+.Button {
+  background: #fdc605;
+  border: none;
+}
+
+.Button svg {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+.MyButton{
+  position: absolute;
+  top: 38px;
+  right: 10.2%;
+  width: 50px;
+  height: 45px;
+}
